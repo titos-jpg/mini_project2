@@ -22,7 +22,7 @@ Selamat datang pada aplikasi **Prediksi Diabetes**.
 
 Aplikasi ini dibangun menggunakan dua model Machine Learning yaitu:
 
-- 📈 Linear Regression
+- 📈 Logistic Regression
 - 🧠 Artificial Neural Network (ANN)
 
 Selain melakukan prediksi, aplikasi ini juga menyediakan visualisasi data untuk membantu memahami karakteristik dataset diabetes.
@@ -42,7 +42,7 @@ with col1:
     
     Model yang digunakan:
     
-    - Linear Regression
+    - Logistic Regression
     - Artificial Neural Network
     """)
 

@@ -42,7 +42,7 @@ st.dataframe(df.describe(), use_container_width=True)
 
 st.header("Distribusi Kelas Diabetes")
 
-fig = px.histogram(
+fig = plt.hist(
     df,
     x="Outcome",
     color="Outcome",
